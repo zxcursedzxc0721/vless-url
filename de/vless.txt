@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: de
-# Updated: 2026-06-02T23:54:52.885Z
+# Updated: 2026-06-02T23:57:09.092Z
 # Configs: 25
 
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
