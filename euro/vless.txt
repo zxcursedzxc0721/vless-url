@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: euro
-# Updated: 2026-06-02T23:51:30.913Z
+# Updated: 2026-06-02T23:53:33.944Z
 # Configs: 208
 
 vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?mode=auto&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=tls&alpn=h2&encryption=none&insecure=0&host=cd2.serviceali.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=cd2.serviceali.ir#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
