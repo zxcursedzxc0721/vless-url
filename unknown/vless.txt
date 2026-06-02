@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: unknown
-# Updated: 2026-06-02T23:51:30.913Z
+# Updated: 2026-06-02T23:53:33.944Z
 # Configs: 58
 
 vless://%40a_amr79@141.193.213.11:443?path=%2Fmy-wbv&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
