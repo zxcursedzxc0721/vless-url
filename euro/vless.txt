@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: euro
-# Updated: 2026-06-03T00:20:11.355Z
-# Configs: 219
+# Updated: 2026-06-03T00:21:40.846Z
+# Configs: 217
 
 vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?mode=auto&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=tls&alpn=h2&encryption=none&insecure=0&host=cd2.serviceali.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=cd2.serviceali.ir#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
@@ -162,8 +162,6 @@ vless://a58a13b4-b73a-42f2-ba1c-90cbb822d8af@212.233.122.88:443?flow=xtls-rprx-v
 vless://2fbf9019-2436-9b8d-4083-f80294f62003@155.212.110.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20LTE%20860%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
 vless://4bb30389-27cd-4c19-a667-8e6dca7a9299@212.233.122.88:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vklive.enotfast.com&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&sid=12b4bc71293e01#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20957%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@89.126.229.40:443?fp=chrome&headertype=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=tcp#🇵🇱 Польша 1 | [WL]
-vless://c871b272-4bb8-4d52-a1a9-a94a19220aa0@83.219.250.104:8090?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#🇧🇦 Босния 5 | [WL]
 vless://0bcbfa34-6f9d-07d0-be0f-4d783e3f37a7@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#20.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 vless://0bcbfa34-6f9d-1f40-be0f-4d783e3f37a7@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#28.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 vless://0bcbfa34-6f9d-03e8-be0f-4d783e3f37a7@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#70.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
