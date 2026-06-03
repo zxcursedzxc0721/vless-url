@@ -8,17 +8,17 @@
     {
       "id": "euro",
       "label": "🇪🇺 Европа (все EU)",
-      "count": 186
+      "count": 177
     },
     {
       "id": "ru",
       "label": "🇷🇺 Россия",
-      "count": 1698
+      "count": 1707
     },
     {
       "id": "it",
       "label": "🇮🇹 Италия",
-      "count": 153
+      "count": 139
     },
     {
       "id": "unknown",
@@ -28,12 +28,12 @@
     {
       "id": "de",
       "label": "🇩🇪 Германия",
-      "count": 21
+      "count": 24
     },
     {
       "id": "nl",
       "label": "🇳🇱 Нидерланды",
-      "count": 7
+      "count": 9
     },
     {
       "id": "gb",
