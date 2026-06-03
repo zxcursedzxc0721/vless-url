@@ -3,22 +3,22 @@
     {
       "id": "all",
       "label": "🌍 Все страны",
-      "count": 1812
+      "count": 1804
     },
     {
       "id": "euro",
       "label": "🇪🇺 Европа (все EU)",
-      "count": 219
+      "count": 217
     },
     {
       "id": "ru",
       "label": "🇷🇺 Россия",
-      "count": 1532
+      "count": 1526
     },
     {
       "id": "it",
       "label": "🇮🇹 Италия",
-      "count": 179
+      "count": 178
     },
     {
       "id": "unknown",
@@ -53,7 +53,7 @@
     {
       "id": "pl",
       "label": "🇵🇱 Польша",
-      "count": 2
+      "count": 1
     },
     {
       "id": "jp",
@@ -63,7 +63,7 @@
   ],
   "sourcesOk": 33,
   "stats": {
-    "matched": 1755,
+    "matched": 1747,
     "unknown": 57
   }
 }
