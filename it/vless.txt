@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: it
-# Updated: 2026-06-03T00:05:02.038Z
-# Configs: 181
+# Updated: 2026-06-03T00:09:24.821Z
+# Configs: 179
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
@@ -182,5 +182,3 @@ vless://88a38400-a1aa-437f-ab8a-52027480af6c@84.201.176.174:443?security=tls&typ
 vless://8c863fe9-65e4-41ee-84e4-1c0009d72639@78.159.111.14:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#1384.%20VLESS%20%7C%20SNI%3A%20www.samsung.com%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
 vless://c8f952eb-695a-4adb-89f6-aec1d148d827@84.201.164.180:443?flow=xtls-rprx-vision&sni=wl-5.legendary-vpn.com&security=reality&pbk=tu-DWXHfEmhMMeMnNbxgsrT84rw9Fo6M4pO0cbl43A8&sid=ae4a7ccbc4e7e404&fp=chrome#1451.%20%F0%9F%87%AA%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20wl-5.legendary-vpn.com%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&sid=b0&type=tcp&headerType=none#1682.%20%F0%9F%87%A6%F0%9F%87%B9%20VLESS%20%7C%20SNI%3A%20www.samsung.com%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
-vless://1f514e3e-54b3-4ec4-82bd-3f2137357604@178.236.240.183:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=pfbJB3DRXflwP8WwE8PqTJCdwn7RcXTgYxwkMH_dA34&sid=6f1573f9669b2e16#%F0%9F%87%A9%F0%9F%87%AAОбходы - TG: AirLinkVPNBot |0045|
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.157.145:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1Обходы - TG: AirLinkVPNBot |0245|
