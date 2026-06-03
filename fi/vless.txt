@@ -1,11 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: fi
-# Updated: 2026-06-03T00:03:29.322Z
-# Configs: 7
+# Updated: 2026-06-03T00:05:02.038Z
+# Configs: 5
 
 vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?mode=auto&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=tls&alpn=h2&encryption=none&insecure=0&host=cd2.serviceali.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=cd2.serviceali.ir#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://0bcbfa34-6f9d-0bb8-be0f-4d783e3f37a7@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23128
-vless://42f9cdad-543f-4f7d-af23-3968ae03f3e8@185.242.19.250:443?encryption=none&type=ws&security=tls&path=%2Fwspath%2F&fp=firefox&sni=zib.sempai.site&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23131
 vless://42f9cdad-543f-4f7d-af23-3968ae03f3e8@185.242.19.249:443?encryption=none&type=ws&security=tls&path=%2Fwspath%2F&fp=firefox&sni=zib.sempai.site&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23127
 vless://e5248081-1527-0bb8-a143-00b1e521b6da@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23128
 vless://5a4514a3-be28-4655-9bd7-5ef391d7949f@5.42.98.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=fi1.thefastspeedtest.net&pbk=PuOP1VAIjcpq6sU_eUxV-z-u_WYFsu2hKIv2uye6804&sid=d8f8e087cc880743#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23131
