@@ -3,61 +3,46 @@
     {
       "id": "all",
       "label": "🌍 Все страны",
-      "count": 3457
+      "count": 3475
     },
     {
       "id": "euro",
       "label": "🇪🇺 Европа (все EU)",
-      "count": 242
+      "count": 221
     },
     {
       "id": "ru",
       "label": "🇷🇺 Россия",
-      "count": 3122
+      "count": 3144
     },
     {
       "id": "it",
       "label": "🇮🇹 Италия",
-      "count": 169
+      "count": 168
     },
     {
       "id": "unknown",
       "label": "❓ Не определено",
-      "count": 83
+      "count": 101
     },
     {
       "id": "de",
       "label": "🇩🇪 Германия",
-      "count": 28
-    },
-    {
-      "id": "fi",
-      "label": "🇫🇮 Финляндия",
-      "count": 10
+      "count": 19
     },
     {
       "id": "gb",
       "label": "🇬🇧 Великобритания",
-      "count": 8
+      "count": 11
+    },
+    {
+      "id": "fi",
+      "label": "🇫🇮 Финляндия",
+      "count": 7
     },
     {
       "id": "ch",
       "label": "🇨🇭 Швейцария",
-      "count": 7
-    },
-    {
-      "id": "nl",
-      "label": "🇳🇱 Нидерланды",
-      "count": 6
-    },
-    {
-      "id": "se",
-      "label": "🇸🇪 Швеция",
-      "count": 6
-    },
-    {
-      "id": "us",
-      "label": "US",
       "count": 5
     },
     {
@@ -68,17 +53,27 @@
     {
       "id": "pl",
       "label": "🇵🇱 Польша",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "us",
+      "label": "US",
+      "count": 4
+    },
+    {
+      "id": "se",
+      "label": "🇸🇪 Швеция",
+      "count": 4
     },
     {
       "id": "es",
       "label": "🇪🇸 Испания",
-      "count": 3
+      "count": 2
     },
     {
-      "id": "lv",
-      "label": "🇱🇻 Латвия",
-      "count": 2
+      "id": "nl",
+      "label": "🇳🇱 Нидерланды",
+      "count": 1
     },
     {
       "id": "jp",
@@ -89,6 +84,6 @@
   "sourcesOk": 33,
   "stats": {
     "matched": 3374,
-    "unknown": 83
+    "unknown": 101
   }
 }
