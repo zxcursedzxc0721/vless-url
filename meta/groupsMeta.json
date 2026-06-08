@@ -3,37 +3,37 @@
     {
       "id": "all",
       "label": "🌍 Все страны",
-      "count": 3433
+      "count": 3528
     },
     {
       "id": "euro",
       "label": "🇪🇺 Европа (все EU)",
-      "count": 224
+      "count": 227
     },
     {
       "id": "ru",
       "label": "🇷🇺 Россия",
-      "count": 3133
+      "count": 3219
     },
     {
       "id": "it",
       "label": "🇮🇹 Италия",
-      "count": 164
+      "count": 173
     },
     {
       "id": "unknown",
       "label": "❓ Не определено",
-      "count": 63
+      "count": 70
     },
     {
       "id": "de",
       "label": "🇩🇪 Германия",
-      "count": 25
+      "count": 22
     },
     {
       "id": "se",
       "label": "🇸🇪 Швеция",
-      "count": 11
+      "count": 10
     },
     {
       "id": "fi",
@@ -41,18 +41,18 @@
       "count": 9
     },
     {
-      "id": "nl",
-      "label": "🇳🇱 Нидерланды",
-      "count": 7
-    },
-    {
       "id": "us",
       "label": "US",
-      "count": 7
+      "count": 6
     },
     {
       "id": "hu",
       "label": "HU",
+      "count": 5
+    },
+    {
+      "id": "nl",
+      "label": "🇳🇱 Нидерланды",
       "count": 5
     },
     {
@@ -78,7 +78,7 @@
   ],
   "sourcesOk": 33,
   "stats": {
-    "matched": 3370,
-    "unknown": 63
+    "matched": 3458,
+    "unknown": 70
   }
 }
